@@ -1,13 +1,13 @@
 # 👋, soy Alex Spelucín
 
-**🔎 Consultor SEO independiente.**
+**📈 Analista digital.**
 
 ## Actualmente
 
-- 💼 Consultor SEO, trabajando con empresas que necesiten generar leads online.
+- 💼 Especialista en analítica digital, trabajando con empresas en los rubros de construcción y comercio electrónico.
 - 🌆 Viviendo en Lima, Perú.
-- ⌨️ Programador aficionado de JavaScript.
-- 🎓 Aprendiendo: IA, Google Sheets y JavaScript.
+- ⌨️ Programador aficionado de JavaScript y R.
+- 🎓 Aprendiendo: SQL, experimentación digital y estrategia de medición.
 
 ## Bio
 
