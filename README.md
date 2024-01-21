@@ -1,13 +1,13 @@
 # 👋, soy Alex Spelucín
 
-**📈 Analista digital.**
+**🔎 SEO Técnico.**
 
 ## Actualmente
 
-- 💼 Especialista en analítica digital, trabajando con empresas en los rubros de construcción y comercio electrónico.
+- 💼 Consultor de SEO Técnico freelance.
 - 🌆 Viviendo en Lima, Perú.
-- ⌨️ Programador aficionado de JavaScript y R.
-- 🎓 Aprendiendo: SQL, experimentación digital y estrategia de medición.
+- ⌨️ Programador aficionado de Python.
+- 🎓 Aprendiendo: Python, SEO para JavaScript y estrategia SEO.
 
 ## Bio
 
