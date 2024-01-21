@@ -1,6 +1,6 @@
 # 👋, soy Alex Spelucín
 
-**🔎 SEO Técnico.**
+**🔎 Consultor SEO.**
 
 ## Actualmente
 
