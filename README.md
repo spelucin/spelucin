@@ -6,8 +6,8 @@
 
 - 💼 Consultor de SEO Técnico freelance.
 - 🌆 Viviendo en Lima, Perú.
-- ⌨️ Programador aficionado de Python.
-- 🎓 Aprendiendo: Python, SEO para JavaScript y estrategia SEO.
+- ⌨️ Programador aficionado de R.
+- 🎓 Aprendiendo: R, SEO para JavaScript y estrategia SEO.
 
 ## Bio
 
