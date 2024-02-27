@@ -1,17 +1,17 @@
 # 👋, soy Alex Spelucín
 
-**🔎 Consultor SEO.**
+**⚡ analista digital y growth marketer.**
 
 ## Actualmente
 
-- 💼 Consultor de SEO Técnico freelance.
+- 💼 Especialista en analítica digital independiente.
 - 🌆 Viviendo en Lima, Perú.
-- ⌨️ Programador aficionado de Python.
-- 🎓 Aprendiendo: Python, análisis de datos, SEO para JavaScript y estrategia SEO.
+- ⌨️ Programador aficionado de R y JavaScript.
+- 🎓 Aprendiendo: R, análisis de datos, SQL, y BigQuery.
 
 ## Bio
 
-- 🕹️ Amante de los juegos de pelea, actualmente jugando Street Fighter III: 3rd Strike.
+- 🕹️ Amante de los juegos de pelea, actualmente jugando Garou: Mark of the Wolves.
 - 💍 Casado con mi amada [Ginger](https://www.instagram.com/ginieillustrated/) y enamorado eternamente de ella.
 - 🍼 Padre de Chii, el otro amor de mi vida.
 
